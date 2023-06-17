@@ -1,1 +1,0 @@
-# xss-playground-challenges
